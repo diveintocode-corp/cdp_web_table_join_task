@@ -3,9 +3,9 @@
 one:
   product_id: 1
   quantity: 1
-  total_mount: 1
+  total_amount: 1
 
 two:
   product_id: 1
   quantity: 1
-  total_mount: 1
+  total_amount: 1
